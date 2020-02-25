@@ -1,5 +1,5 @@
 def spam():
    print(eggs)
-eggs = 42
+eggs = 52
 spam()
 print(eggs)
